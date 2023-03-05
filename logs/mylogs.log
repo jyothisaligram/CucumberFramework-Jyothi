@@ -1,0 +1,552 @@
+20230303 09:50:38 INFO  [main] steps.stepsPOM stepsPOM.java57 - started login method ...
+20230303 09:50:38 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 09:50:43 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 09:50:47 DEBUG [main] base.BaseTest BaseTest.java109 - usernameEle  entered
+20230303 09:50:47 INFO  [main] steps.stepsPOM stepsPOM.java74 - entered username
+20230303 09:50:47 DEBUG [main] base.BaseTest BaseTest.java109 - usernameEle  entered
+20230303 09:50:47 INFO  [main] steps.stepsPOM stepsPOM.java82 - entered blank  password
+20230303 09:50:51 DEBUG [main] base.BaseTest BaseTest.java126 - Login clicked
+20230303 09:50:51 INFO  [main] steps.stepsPOM stepsPOM.java89 - entered login button
+20230303 09:50:56 INFO  [main] steps.stepsPOM stepsPOM.java98 - Error message is displayed
+20230303 09:50:56 INFO  [main] steps.stepsPOM stepsPOM.java48 - closing webdriver
+20230303 09:55:37 INFO  [main] steps.stepsPOM stepsPOM.java58 - started login method ...
+20230303 09:55:38 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 09:55:42 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 09:55:46 DEBUG [main] base.BaseTest BaseTest.java109 - usernameEle  entered
+20230303 09:55:46 INFO  [main] steps.stepsPOM stepsPOM.java75 - entered username
+20230303 09:55:46 DEBUG [main] base.BaseTest BaseTest.java109 - usernameEle  entered
+20230303 09:55:46 INFO  [main] steps.stepsPOM stepsPOM.java83 - entered blank  password
+20230303 09:55:51 DEBUG [main] base.BaseTest BaseTest.java126 - Login clicked
+20230303 09:55:51 INFO  [main] steps.stepsPOM stepsPOM.java90 - entered login button
+20230303 09:55:56 INFO  [main] steps.stepsPOM stepsPOM.java99 - Error message is displayed
+20230303 09:55:56 INFO  [main] steps.stepsPOM stepsPOM.java48 - closing webdriver
+20230303 09:57:49 INFO  [main] steps.stepsPOM stepsPOM.java58 - started login method ...
+20230303 09:57:49 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 09:57:53 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 09:58:02 DEBUG [main] base.BaseTest BaseTest.java109 - usernameEle  entered
+20230303 09:58:02 INFO  [main] steps.stepsPOM stepsPOM.java117 - user name entered
+20230303 09:58:02 DEBUG [main] base.BaseTest BaseTest.java109 - passwordEle  entered
+20230303 09:58:06 INFO  [main] steps.stepsPOM stepsPOM.java126 - password entered
+20230303 09:58:09 DEBUG [main] base.BaseTest BaseTest.java126 - Login clicked
+20230303 09:58:09 INFO  [main] steps.stepsPOM stepsPOM.java90 - entered login button
+20230303 09:58:14 INFO  [main] steps.stepsPOM stepsPOM.java66 - Inside homepage
+20230303 09:58:20 INFO  [main] steps.stepsPOM stepsPOM.java48 - closing webdriver
+20230303 10:03:30 INFO  [main] steps.stepsPOM stepsPOM.java58 - started login method ...
+20230303 10:03:30 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 10:03:34 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 10:03:42 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230303 10:03:42 INFO  [main] steps.stepsPOM stepsPOM.java117 - user name entered
+20230303 10:03:43 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230303 10:03:47 INFO  [main] steps.stepsPOM stepsPOM.java126 - password entered
+20230303 10:03:49 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230303 10:03:49 INFO  [main] steps.stepsPOM stepsPOM.java90 - entered login button
+20230303 10:03:54 INFO  [main] steps.stepsPOM stepsPOM.java66 - Inside homepage
+20230303 10:03:59 INFO  [main] steps.stepsPOM stepsPOM.java48 - closing webdriver
+20230303 10:05:58 INFO  [main] steps.stepsPOM stepsPOM.java58 - started login method ...
+20230303 10:05:59 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 10:06:03 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 10:06:11 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230303 10:06:11 INFO  [main] steps.stepsPOM stepsPOM.java117 - user name entered
+20230303 10:06:11 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230303 10:06:15 INFO  [main] steps.stepsPOM stepsPOM.java126 - password entered
+20230303 10:06:17 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230303 10:06:17 INFO  [main] steps.stepsPOM stepsPOM.java90 - entered login button
+20230303 10:06:22 INFO  [main] steps.stepsPOM stepsPOM.java66 - Inside homepage
+20230303 10:06:27 INFO  [main] steps.stepsPOM stepsPOM.java48 - closing webdriver
+20230303 10:08:30 INFO  [main] steps.stepsPOM stepsPOM.java58 - started login method ...
+20230303 10:08:30 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 10:08:34 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 10:08:42 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230303 10:08:42 INFO  [main] steps.stepsPOM stepsPOM.java117 - user name entered
+20230303 10:08:43 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230303 10:08:47 INFO  [main] steps.stepsPOM stepsPOM.java126 - password entered
+20230303 10:08:48 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230303 10:08:48 INFO  [main] steps.stepsPOM stepsPOM.java90 - entered login button
+20230303 10:08:53 INFO  [main] steps.stepsPOM stepsPOM.java66 - Inside homepage
+20230303 10:08:58 INFO  [main] homepages.HomePage HomePage.java46 - User is on home page
+20230303 10:08:58 INFO  [main] steps.stepsPOM stepsPOM.java132 - This is homepage
+20230303 10:08:58 INFO  [main] steps.stepsPOM stepsPOM.java48 - closing webdriver
+20230303 11:14:00 INFO  [main] steps.stepsPOM stepsPOM.java58 - started login method ...
+20230303 11:14:00 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 11:14:04 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 11:14:13 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230303 11:14:13 INFO  [main] steps.stepsPOM stepsPOM.java117 - user name entered
+20230303 11:14:13 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230303 11:14:17 INFO  [main] steps.stepsPOM stepsPOM.java126 - password entered
+20230303 11:14:17 INFO  [main] steps.stepsPOM stepsPOM.java48 - closing webdriver
+20230303 11:18:35 INFO  [main] steps.stepsPOM stepsPOM.java58 - started login method ...
+20230303 11:18:36 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 11:18:40 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 11:18:44 INFO  [main] steps.stepsPOM stepsPOM.java48 - closing webdriver
+20230303 11:21:36 INFO  [main] steps.stepsPOM stepsPOM.java58 - started login method ...
+20230303 11:21:37 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 11:21:41 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 11:21:45 INFO  [main] steps.stepsPOM stepsPOM.java48 - closing webdriver
+20230303 17:29:49 INFO  [main] steps.stepsPOM stepsPOM.java61 - started login method ...
+20230303 17:29:49 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 17:29:53 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 17:30:01 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230303 17:30:01 INFO  [main] steps.stepsPOM stepsPOM.java120 - user name entered
+20230303 17:30:02 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230303 17:30:06 INFO  [main] steps.stepsPOM stepsPOM.java129 - password entered
+20230303 17:30:06 DEBUG [main] base.BaseTest BaseTest.java125 - remember ele clicked
+20230303 17:30:15 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230303 17:30:15 INFO  [main] steps.stepsPOM stepsPOM.java93 - entered login button
+20230303 17:30:20 INFO  [main] steps.stepsPOM stepsPOM.java51 - closing webdriver
+20230303 17:34:23 INFO  [main] steps.stepsPOM stepsPOM.java61 - started login method ...
+20230303 17:34:23 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 17:34:27 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 17:34:36 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230303 17:34:36 INFO  [main] steps.stepsPOM stepsPOM.java120 - user name entered
+20230303 17:34:36 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230303 17:34:40 INFO  [main] steps.stepsPOM stepsPOM.java129 - password entered
+20230303 17:34:40 DEBUG [main] base.BaseTest BaseTest.java125 - remember ele clicked
+20230303 17:34:43 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230303 17:34:43 INFO  [main] steps.stepsPOM stepsPOM.java93 - entered login button
+20230303 17:34:48 INFO  [main] steps.stepsPOM stepsPOM.java51 - closing webdriver
+20230303 17:41:00 INFO  [main] steps.stepsPOM stepsPOM.java61 - started login method ...
+20230303 17:41:01 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 17:41:05 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 17:41:13 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230303 17:41:13 INFO  [main] steps.stepsPOM stepsPOM.java120 - user name entered
+20230303 17:41:13 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230303 17:41:17 INFO  [main] steps.stepsPOM stepsPOM.java129 - password entered
+20230303 17:41:17 DEBUG [main] base.BaseTest BaseTest.java125 - remember ele clicked
+20230303 17:41:20 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230303 17:41:20 INFO  [main] steps.stepsPOM stepsPOM.java93 - entered login button
+20230303 17:41:25 INFO  [main] steps.stepsPOM stepsPOM.java69 - Inside homepage
+20230303 17:41:30 INFO  [main] homepages.HomePage HomePage.java46 - User is on home page
+20230303 17:41:30 INFO  [main] steps.stepsPOM stepsPOM.java135 - This is homepage
+20230303 17:41:35 DEBUG [main] steps.stepsPOM stepsPOM.java158 - Drop down menu selected ..
+20230303 17:41:39 DEBUG [main] base.BaseTest BaseTest.java125 - logout clicked
+20230303 17:41:39 INFO  [main] steps.stepsPOM stepsPOM.java61 - started login method ...
+20230303 17:41:39 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 17:41:43 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 17:41:47 DEBUG [main] steps.stepsPOM stepsPOM.java171 - Username = jan23.jyothi@ta.com
+20230303 17:41:47 DEBUG [main] steps.stepsPOM stepsPOM.java182 - Username is displayed..The script test for rememberme passed
+20230303 17:41:47 INFO  [main] steps.stepsPOM stepsPOM.java51 - closing webdriver
+20230303 18:58:20 INFO  [main] steps.stepsPOM stepsPOM.java65 - started login method ...
+20230303 18:58:20 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 18:58:24 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 18:58:29 DEBUG [main] base.BaseTest BaseTest.java125 - ForgotPassword clicked
+20230303 18:58:29 INFO  [main] steps.stepsPOM stepsPOM.java55 - closing webdriver
+20230303 19:20:02 INFO  [main] steps.stepsPOM stepsPOM.java65 - started login method ...
+20230303 19:20:03 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 19:20:07 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 19:20:12 DEBUG [main] base.BaseTest BaseTest.java125 - ForgotPassword clicked
+20230303 19:20:17 INFO  [main] steps.stepsPOM stepsPOM.java55 - closing webdriver
+20230303 20:44:34 INFO  [main] steps.stepsPOM stepsPOM.java65 - started login method ...
+20230303 20:44:35 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 20:44:39 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 20:44:44 DEBUG [main] base.BaseTest BaseTest.java125 - ForgotPassword clicked
+20230303 20:44:44 INFO  [main] steps.stepsPOM stepsPOM.java77 - Inside forgot password page
+20230303 20:44:49 INFO  [main] steps.stepsPOM stepsPOM.java55 - closing webdriver
+20230303 20:46:47 INFO  [main] steps.stepsPOM stepsPOM.java65 - started login method ...
+20230303 20:46:48 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 20:46:52 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 20:46:57 DEBUG [main] base.BaseTest BaseTest.java125 - ForgotPassword clicked
+20230303 20:46:57 INFO  [main] steps.stepsPOM stepsPOM.java77 - Inside forgot password page
+20230303 20:47:02 DEBUG [main] loginpages.forgotpasswordPage forgotpasswordPage.java42 -  user is on forgot password page
+20230303 20:47:02 DEBUG [main] base.BaseTest BaseTest.java108 - user Email  entered
+20230303 20:47:03 DEBUG [main] base.BaseTest BaseTest.java125 - Continue Ele clicked
+20230303 20:47:03 INFO  [main] steps.stepsPOM stepsPOM.java81 - Inside check your email page
+20230303 20:47:03 INFO  [main] loginpages.checkyouremailPage checkyouremailPage.java45 - user is on check your email page....Test passed
+20230303 20:47:33 INFO  [main] steps.stepsPOM stepsPOM.java55 - closing webdriver
+20230303 20:50:12 INFO  [main] steps.stepsPOM stepsPOM.java65 - started login method ...
+20230303 20:50:12 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230303 20:50:16 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230303 20:50:21 DEBUG [main] base.BaseTest BaseTest.java125 - ForgotPassword clicked
+20230303 20:50:21 INFO  [main] steps.stepsPOM stepsPOM.java77 - Inside forgot password page
+20230303 20:50:26 DEBUG [main] loginpages.forgotpasswordPage forgotpasswordPage.java42 -  user is on forgot password page
+20230303 20:50:26 DEBUG [main] base.BaseTest BaseTest.java108 - user Email  entered
+20230303 20:50:27 DEBUG [main] base.BaseTest BaseTest.java125 - Continue Ele clicked
+20230303 20:50:27 INFO  [main] steps.stepsPOM stepsPOM.java81 - Inside check your email page
+20230303 20:50:27 INFO  [main] loginpages.checkyouremailPage checkyouremailPage.java45 - user is on check your email page....Test passed
+20230303 20:50:57 INFO  [main] steps.stepsPOM stepsPOM.java55 - closing webdriver
+20230304 07:47:53 INFO  [main] steps.stepsPOM stepsPOM.java65 - started login method ...
+20230304 07:47:53 DEBUG [main] loginpages.LoginPage LoginPage.java97 - Successfully launched.... https://login.salesforce.com
+20230304 07:47:57 INFO  [main] loginpages.LoginPage LoginPage.java102 - page title is  Login | Salesforce
+20230304 07:48:03 DEBUG [main] base.BaseTest BaseTest.java125 - ForgotPassword clicked
+20230304 07:48:03 INFO  [main] steps.stepsPOM stepsPOM.java77 - Inside forgot password page
+20230304 07:48:08 DEBUG [main] loginpages.forgotpasswordPage forgotpasswordPage.java42 -  user is on forgot password page
+20230304 07:48:08 DEBUG [main] base.BaseTest BaseTest.java108 - user Email  entered
+20230304 07:48:09 DEBUG [main] base.BaseTest BaseTest.java125 - Continue Ele clicked
+20230304 07:48:09 INFO  [main] steps.stepsPOM stepsPOM.java81 - Inside check your email page
+20230304 07:48:09 INFO  [main] loginpages.checkyouremailPage checkyouremailPage.java52 - user is on check your email page....Test passed
+20230304 07:48:09 DEBUG [main] loginpages.checkyouremailPage checkyouremailPage.java67 - actual message = We’ve sent you an email with a link to finish resetting your password.
+20230304 07:48:09 DEBUG [main] loginpages.checkyouremailPage checkyouremailPage.java68 - expected message = We’ve sent you an email with a link to finish resetting your password.
+20230304 07:48:09 INFO  [main] loginpages.checkyouremailPage checkyouremailPage.java72 - email sent successfully to reset password
+20230304 07:48:14 DEBUG [main] base.BaseTest BaseTest.java125 - Return button Ele clicked
+20230304 07:48:14 INFO  [main] steps.stepsPOM stepsPOM.java55 - closing webdriver
+20230304 14:04:34 INFO  [main] steps.stepsPOM stepsPOM.java65 - started login method ...
+20230304 14:04:34 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 14:04:38 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 14:04:43 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 14:04:43 INFO  [main] steps.stepsPOM stepsPOM.java262 - entered invalid username
+20230304 14:04:43 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 14:04:43 INFO  [main] steps.stepsPOM stepsPOM.java272 - entered invalid  password
+20230304 14:04:59 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 14:04:59 INFO  [main] steps.stepsPOM stepsPOM.java106 - entered login button
+20230304 14:05:09 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 14:05:09 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 14:05:09 DEBUG [main] loginpages.LoginPage LoginPage.java115 - Test Script for validate error message passed
+20230304 14:05:09 INFO  [main] steps.stepsPOM stepsPOM.java55 - closing webdriver
+20230304 14:09:36 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 14:09:36 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 14:09:40 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 14:09:44 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 14:09:44 INFO  [main] steps.stepsPOM stepsPOM.java263 - entered invalid username
+20230304 14:09:45 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 14:09:45 INFO  [main] steps.stepsPOM stepsPOM.java273 - entered invalid  password
+20230304 14:10:01 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 14:10:01 INFO  [main] steps.stepsPOM stepsPOM.java107 - entered login button
+20230304 14:10:11 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 14:10:11 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 14:10:11 DEBUG [main] loginpages.LoginPage LoginPage.java115 - Test Script for validate error message passed
+20230304 14:10:11 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 14:33:01 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 14:33:02 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 14:33:06 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 14:33:10 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 14:33:10 INFO  [main] steps.stepsPOM stepsPOM.java263 - entered invalid username
+20230304 14:33:10 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 14:33:10 INFO  [main] steps.stepsPOM stepsPOM.java273 - entered invalid  password
+20230304 14:33:26 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 14:33:26 INFO  [main] steps.stepsPOM stepsPOM.java107 - entered login button
+20230304 14:33:36 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 14:33:36 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 14:33:36 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 14:56:33 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 14:56:34 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 14:56:38 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 14:56:42 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 14:56:42 INFO  [main] steps.stepsPOM stepsPOM.java263 - entered invalid username
+20230304 14:56:42 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 14:56:42 INFO  [main] steps.stepsPOM stepsPOM.java273 - entered invalid  password
+20230304 14:56:58 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 14:56:58 INFO  [main] steps.stepsPOM stepsPOM.java107 - entered login button
+20230304 14:57:08 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 14:57:08 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 14:57:08 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 15:33:33 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 15:33:50 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 15:33:54 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 15:34:35 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 15:34:36 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 15:34:40 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 15:34:44 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 15:34:44 INFO  [main] steps.stepsPOM stepsPOM.java263 - entered invalid username
+20230304 15:34:44 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 15:34:44 INFO  [main] steps.stepsPOM stepsPOM.java273 - entered invalid  password
+20230304 15:35:01 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 15:35:01 INFO  [main] steps.stepsPOM stepsPOM.java107 - entered login button
+20230304 15:35:11 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:35:11 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:35:11 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 15:43:28 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 15:43:29 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 15:43:33 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 15:43:37 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 15:43:37 INFO  [main] steps.stepsPOM stepsPOM.java263 - entered invalid username
+20230304 15:43:37 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 15:43:37 INFO  [main] steps.stepsPOM stepsPOM.java273 - entered invalid  password
+20230304 15:43:54 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 15:43:54 INFO  [main] steps.stepsPOM stepsPOM.java107 - entered login button
+20230304 15:44:04 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:44:04 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:44:04 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 15:48:56 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 15:48:56 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 15:49:00 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 15:49:05 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 15:49:05 INFO  [main] steps.stepsPOM stepsPOM.java263 - entered invalid username
+20230304 15:49:05 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 15:49:05 INFO  [main] steps.stepsPOM stepsPOM.java273 - entered invalid  password
+20230304 15:49:21 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 15:49:21 INFO  [main] steps.stepsPOM stepsPOM.java107 - entered login button
+20230304 15:49:31 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:49:31 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:49:31 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 15:51:15 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 15:51:15 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 15:51:19 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 15:51:23 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 15:51:23 INFO  [main] steps.stepsPOM stepsPOM.java263 - entered invalid username
+20230304 15:51:24 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 15:51:24 INFO  [main] steps.stepsPOM stepsPOM.java273 - entered invalid  password
+20230304 15:51:39 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 15:51:39 INFO  [main] steps.stepsPOM stepsPOM.java107 - entered login button
+20230304 15:51:49 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:51:49 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:51:49 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 15:53:20 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 15:53:21 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 15:53:25 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 15:53:29 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 15:53:29 INFO  [main] steps.stepsPOM stepsPOM.java263 - entered invalid username
+20230304 15:53:29 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 15:53:29 INFO  [main] steps.stepsPOM stepsPOM.java273 - entered invalid  password
+20230304 15:53:44 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 15:53:44 INFO  [main] steps.stepsPOM stepsPOM.java107 - entered login button
+20230304 15:53:54 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:53:54 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:53:54 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 15:55:29 INFO  [main] steps.stepsPOM stepsPOM.java67 - started login method ...
+20230304 15:55:30 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 15:55:34 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 15:55:38 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 15:55:38 INFO  [main] steps.stepsPOM stepsPOM.java264 - entered invalid username
+20230304 15:55:38 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 15:55:38 INFO  [main] steps.stepsPOM stepsPOM.java274 - entered invalid  password
+20230304 15:55:54 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 15:55:54 INFO  [main] steps.stepsPOM stepsPOM.java108 - entered login button
+20230304 15:56:04 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:56:04 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:56:04 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 15:57:06 INFO  [main] steps.stepsPOM stepsPOM.java67 - started login method ...
+20230304 15:57:07 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 15:57:11 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 15:57:15 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 15:57:15 INFO  [main] steps.stepsPOM stepsPOM.java264 - entered invalid username
+20230304 15:57:15 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 15:57:15 INFO  [main] steps.stepsPOM stepsPOM.java274 - entered invalid  password
+20230304 15:57:31 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 15:57:31 INFO  [main] steps.stepsPOM stepsPOM.java108 - entered login button
+20230304 15:57:41 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:57:41 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:57:41 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 15:58:59 INFO  [main] steps.stepsPOM stepsPOM.java67 - started login method ...
+20230304 15:59:00 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 15:59:04 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 15:59:08 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 15:59:08 INFO  [main] steps.stepsPOM stepsPOM.java264 - entered invalid username
+20230304 15:59:08 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 15:59:08 INFO  [main] steps.stepsPOM stepsPOM.java274 - entered invalid  password
+20230304 15:59:24 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 15:59:24 INFO  [main] steps.stepsPOM stepsPOM.java108 - entered login button
+20230304 15:59:34 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:59:34 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 15:59:34 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:02:56 INFO  [main] steps.stepsPOM stepsPOM.java67 - started login method ...
+20230304 16:02:58 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:03:02 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:03:06 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:03:06 INFO  [main] steps.stepsPOM stepsPOM.java264 - entered invalid username
+20230304 16:03:06 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 16:03:06 INFO  [main] steps.stepsPOM stepsPOM.java274 - entered invalid  password
+20230304 16:03:22 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:03:22 INFO  [main] steps.stepsPOM stepsPOM.java108 - entered login button
+20230304 16:03:32 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:03:32 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:03:32 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:05:27 INFO  [main] steps.stepsPOM stepsPOM.java67 - started login method ...
+20230304 16:05:28 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:05:32 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:05:36 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:05:36 INFO  [main] steps.stepsPOM stepsPOM.java264 - entered invalid username
+20230304 16:05:36 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 16:05:36 INFO  [main] steps.stepsPOM stepsPOM.java274 - entered invalid  password
+20230304 16:05:52 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:05:52 INFO  [main] steps.stepsPOM stepsPOM.java108 - entered login button
+20230304 16:06:02 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:06:02 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:06:02 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:14:11 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:14:13 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:14:17 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:14:21 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:14:21 INFO  [main] steps.stepsPOM stepsPOM.java262 - entered invalid username
+20230304 16:14:21 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 16:14:21 INFO  [main] steps.stepsPOM stepsPOM.java271 - entered invalid  password
+20230304 16:14:37 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:14:37 INFO  [main] steps.stepsPOM stepsPOM.java110 - entered login button
+20230304 16:14:47 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:14:47 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:14:47 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:16:23 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:16:24 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:16:28 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:16:32 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:16:32 INFO  [main] steps.stepsPOM stepsPOM.java262 - entered invalid username
+20230304 16:16:32 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 16:16:32 INFO  [main] steps.stepsPOM stepsPOM.java271 - entered invalid  password
+20230304 16:16:47 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:16:47 INFO  [main] steps.stepsPOM stepsPOM.java110 - entered login button
+20230304 16:16:58 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:16:58 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:16:58 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:17:52 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:17:52 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:17:56 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:18:01 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:18:01 INFO  [main] steps.stepsPOM stepsPOM.java262 - entered invalid username
+20230304 16:18:01 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 16:18:01 INFO  [main] steps.stepsPOM stepsPOM.java271 - entered invalid  password
+20230304 16:18:16 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:18:16 INFO  [main] steps.stepsPOM stepsPOM.java110 - entered login button
+20230304 16:18:26 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:18:26 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:18:26 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:19:22 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:19:22 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:19:26 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:19:30 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:19:30 INFO  [main] steps.stepsPOM stepsPOM.java262 - entered invalid username
+20230304 16:19:31 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 16:19:31 INFO  [main] steps.stepsPOM stepsPOM.java271 - entered invalid  password
+20230304 16:19:47 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:19:47 INFO  [main] steps.stepsPOM stepsPOM.java110 - entered login button
+20230304 16:19:58 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:19:58 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:19:58 DEBUG [main] loginpages.LoginPage LoginPage.java115 - Test Script for validate error message passed
+20230304 16:19:58 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:27:44 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:27:45 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:27:49 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:27:53 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:27:53 INFO  [main] steps.stepsPOM stepsPOM.java95 - entered username
+20230304 16:27:53 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 16:27:53 INFO  [main] steps.stepsPOM stepsPOM.java103 - entered blank  password
+20230304 16:27:58 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:27:58 INFO  [main] steps.stepsPOM stepsPOM.java110 - entered login button
+20230304 16:28:03 INFO  [main] steps.stepsPOM stepsPOM.java119 - Error message is displayed
+20230304 16:28:03 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:28:04 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:28:05 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:28:09 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:28:17 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:28:17 INFO  [main] steps.stepsPOM stepsPOM.java137 - user name entered
+20230304 16:28:17 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230304 16:28:21 INFO  [main] steps.stepsPOM stepsPOM.java146 - password entered
+20230304 16:28:24 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:28:24 INFO  [main] steps.stepsPOM stepsPOM.java110 - entered login button
+20230304 16:28:29 INFO  [main] steps.stepsPOM stepsPOM.java73 - Inside homepage
+20230304 16:28:34 INFO  [main] homepages.HomePage HomePage.java46 - User is on home page
+20230304 16:28:34 INFO  [main] steps.stepsPOM stepsPOM.java153 - This is homepage
+20230304 16:28:34 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:28:35 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:28:36 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:28:40 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:28:48 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:28:48 INFO  [main] steps.stepsPOM stepsPOM.java137 - user name entered
+20230304 16:28:48 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230304 16:28:52 INFO  [main] steps.stepsPOM stepsPOM.java146 - password entered
+20230304 16:28:52 DEBUG [main] base.BaseTest BaseTest.java125 - remember ele clicked
+20230304 16:28:54 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:28:54 INFO  [main] steps.stepsPOM stepsPOM.java110 - entered login button
+20230304 16:28:59 INFO  [main] steps.stepsPOM stepsPOM.java73 - Inside homepage
+20230304 16:29:04 INFO  [main] homepages.HomePage HomePage.java46 - User is on home page
+20230304 16:29:04 INFO  [main] steps.stepsPOM stepsPOM.java153 - This is homepage
+20230304 16:29:09 DEBUG [main] steps.stepsPOM stepsPOM.java176 - Drop down menu selected ..
+20230304 16:29:13 DEBUG [main] base.BaseTest BaseTest.java125 - logout clicked
+20230304 16:29:13 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:29:13 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:29:17 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:29:21 DEBUG [main] steps.stepsPOM stepsPOM.java189 - Username = jan23.jyothi@ta.com
+20230304 16:29:21 DEBUG [main] steps.stepsPOM stepsPOM.java200 - Username is displayed..The script test for rememberme passed
+20230304 16:29:21 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:29:22 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:29:23 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:29:27 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:29:31 DEBUG [main] base.BaseTest BaseTest.java125 - ForgotPassword clicked
+20230304 16:29:31 INFO  [main] steps.stepsPOM stepsPOM.java77 - Inside forgot password page
+20230304 16:29:36 DEBUG [main] loginpages.forgotpasswordPage forgotpasswordPage.java42 -  user is on forgot password page
+20230304 16:29:36 DEBUG [main] base.BaseTest BaseTest.java108 - user Email  entered
+20230304 16:29:37 DEBUG [main] base.BaseTest BaseTest.java125 - Continue Ele clicked
+20230304 16:29:37 INFO  [main] steps.stepsPOM stepsPOM.java81 - Inside check your email page
+20230304 16:29:37 INFO  [main] loginpages.checkyouremailPage checkyouremailPage.java45 - user is on check your email page....Test passed
+20230304 16:29:37 DEBUG [main] loginpages.checkyouremailPage checkyouremailPage.java59 - actual message = We’ve sent you an email with a link to finish resetting your password.
+20230304 16:29:37 DEBUG [main] loginpages.checkyouremailPage checkyouremailPage.java60 - expected message = We’ve sent you an email with a link to finish resetting your password.
+20230304 16:29:37 INFO  [main] loginpages.checkyouremailPage checkyouremailPage.java64 - email sent successfully to reset password
+20230304 16:29:41 DEBUG [main] base.BaseTest BaseTest.java125 - Return button Ele clicked
+20230304 16:29:41 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:29:43 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:29:44 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:29:48 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:29:52 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:29:52 INFO  [main] steps.stepsPOM stepsPOM.java262 - entered invalid username
+20230304 16:29:52 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 16:29:52 INFO  [main] steps.stepsPOM stepsPOM.java271 - entered invalid  password
+20230304 16:30:09 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:30:09 INFO  [main] steps.stepsPOM stepsPOM.java110 - entered login button
+20230304 16:30:19 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Actual error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:30:19 DEBUG [main] loginpages.LoginPage LoginPage.java110 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 16:30:19 DEBUG [main] loginpages.LoginPage LoginPage.java115 - Test Script for validate error message passed
+20230304 16:30:19 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:57:57 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:57:57 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:58:01 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:58:06 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:58:06 INFO  [main] steps.stepsPOM stepsPOM.java97 - entered username
+20230304 16:58:06 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 16:58:06 INFO  [main] steps.stepsPOM stepsPOM.java105 - entered blank  password
+20230304 16:58:10 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:58:10 INFO  [main] steps.stepsPOM stepsPOM.java112 - entered login button
+20230304 16:58:15 DEBUG [main] loginpages.LoginPage LoginPage.java109 - Test Script for TC_1Salesforce passed
+20230304 16:58:15 INFO  [main] loginpages.LoginPage LoginPage.java110 - Error message is displayed
+20230304 16:58:15 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:58:17 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:58:17 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:58:21 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:58:30 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:58:30 INFO  [main] steps.stepsPOM stepsPOM.java130 - user name entered
+20230304 16:58:30 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230304 16:58:34 INFO  [main] steps.stepsPOM stepsPOM.java139 - password entered
+20230304 16:58:36 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:58:36 INFO  [main] steps.stepsPOM stepsPOM.java112 - entered login button
+20230304 16:58:41 INFO  [main] steps.stepsPOM stepsPOM.java73 - Inside homepage
+20230304 16:58:46 INFO  [main] homepages.HomePage HomePage.java49 - User is on home page
+20230304 16:58:46 DEBUG [main] homepages.HomePage HomePage.java50 - Test Script for homepage launch TC_2 passsed
+20230304 16:58:46 INFO  [main] steps.stepsPOM stepsPOM.java146 - This is homepage
+20230304 16:58:46 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:58:48 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:58:48 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:58:52 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:59:00 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 16:59:00 INFO  [main] steps.stepsPOM stepsPOM.java130 - user name entered
+20230304 16:59:01 DEBUG [main] base.BaseTest BaseTest.java108 - passwordEle  entered
+20230304 16:59:05 INFO  [main] steps.stepsPOM stepsPOM.java139 - password entered
+20230304 16:59:05 DEBUG [main] base.BaseTest BaseTest.java125 - remember ele clicked
+20230304 16:59:07 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 16:59:07 INFO  [main] steps.stepsPOM stepsPOM.java112 - entered login button
+20230304 16:59:12 INFO  [main] steps.stepsPOM stepsPOM.java73 - Inside homepage
+20230304 16:59:17 INFO  [main] homepages.HomePage HomePage.java49 - User is on home page
+20230304 16:59:17 DEBUG [main] homepages.HomePage HomePage.java50 - Test Script for homepage launch TC_2 passsed
+20230304 16:59:17 INFO  [main] steps.stepsPOM stepsPOM.java146 - This is homepage
+20230304 16:59:22 DEBUG [main] steps.stepsPOM stepsPOM.java169 - Drop down menu selected ..
+20230304 16:59:25 DEBUG [main] base.BaseTest BaseTest.java125 - logout clicked
+20230304 16:59:25 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:59:25 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:59:29 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:59:33 DEBUG [main] steps.stepsPOM stepsPOM.java182 - Username = jan23.jyothi@ta.com
+20230304 16:59:34 DEBUG [main] loginpages.LoginPage LoginPage.java151 - Username is displayed..The script test for rememberme TC_3 passed
+20230304 16:59:34 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:59:35 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:59:35 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 16:59:39 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 16:59:44 DEBUG [main] base.BaseTest BaseTest.java125 - ForgotPassword clicked
+20230304 16:59:44 INFO  [main] steps.stepsPOM stepsPOM.java77 - Inside forgot password page
+20230304 16:59:49 DEBUG [main] loginpages.forgotpasswordPage forgotpasswordPage.java42 -  user is on forgot password page
+20230304 16:59:49 DEBUG [main] base.BaseTest BaseTest.java108 - user Email  entered
+20230304 16:59:50 DEBUG [main] base.BaseTest BaseTest.java125 - Continue Ele clicked
+20230304 16:59:50 INFO  [main] steps.stepsPOM stepsPOM.java81 - Inside check your email page
+20230304 16:59:50 INFO  [main] loginpages.checkyouremailPage checkyouremailPage.java45 - user is on check your email page....Testscript TC_4A passed
+20230304 16:59:50 DEBUG [main] loginpages.checkyouremailPage checkyouremailPage.java59 - actual message = We’ve sent you an email with a link to finish resetting your password.
+20230304 16:59:50 DEBUG [main] loginpages.checkyouremailPage checkyouremailPage.java60 - expected message = We’ve sent you an email with a link to finish resetting your password.
+20230304 16:59:50 INFO  [main] loginpages.checkyouremailPage checkyouremailPage.java64 - email sent successfully to reset password
+20230304 16:59:50 INFO  [main] loginpages.checkyouremailPage checkyouremailPage.java65 - Test Script TC_4A pass
+20230304 16:59:54 DEBUG [main] base.BaseTest BaseTest.java125 - Return button Ele clicked
+20230304 16:59:54 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
+20230304 16:59:56 INFO  [main] steps.stepsPOM stepsPOM.java66 - started login method ...
+20230304 16:59:56 DEBUG [main] loginpages.LoginPage LoginPage.java95 - Successfully launched.... https://login.salesforce.com
+20230304 17:00:00 INFO  [main] loginpages.LoginPage LoginPage.java100 - page title is  Login | Salesforce
+20230304 17:00:05 DEBUG [main] base.BaseTest BaseTest.java108 - usernameEle  entered
+20230304 17:00:05 INFO  [main] steps.stepsPOM stepsPOM.java242 - entered invalid username
+20230304 17:00:05 DEBUG [main] base.BaseTest BaseTest.java108 - PasswordEle  entered
+20230304 17:00:05 INFO  [main] steps.stepsPOM stepsPOM.java251 - entered invalid  password
+20230304 17:00:20 DEBUG [main] base.BaseTest BaseTest.java125 - Login clicked
+20230304 17:00:20 INFO  [main] steps.stepsPOM stepsPOM.java112 - entered login button
+20230304 17:00:30 DEBUG [main] loginpages.LoginPage LoginPage.java127 - Actual error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 17:00:30 DEBUG [main] loginpages.LoginPage LoginPage.java128 - expected error text = Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20230304 17:00:30 DEBUG [main] loginpages.LoginPage LoginPage.java133 - Test Script TC_4B for validate error message passed
+20230304 17:00:30 INFO  [main] steps.stepsPOM stepsPOM.java56 - closing webdriver
